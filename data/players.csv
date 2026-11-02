@@ -1,0 +1,25 @@
+player_id,name,team,jersey,position,appearances,goals,assists,clean_sheets,saves,tackles,key_passes,yellow_cards,red_cards
+BAR-01,Joan Valls,FC Barcelona,1,GK,10,0,0,5,28,0,1,0,0
+BAR-08,Pau Ferrandis,FC Barcelona,8,MID,10,4,7,0,0,18,26,1,0
+BAR-09,Ilias Navarro,FC Barcelona,9,FWD,10,9,3,0,0,2,14,1,0
+RMA-01,Alvaro Quintero,Real Madrid,1,GK,9,0,0,4,24,0,0,1,0
+RMA-05,Nacho Beltran,Real Madrid,5,DEF,10,2,1,5,0,27,6,2,0
+RMA-10,Luka Herrero,Real Madrid,10,MID,10,5,8,0,0,15,31,1,0
+RMA-07,Dario Maldonado,Real Madrid,7,FWD,10,8,4,0,0,3,17,2,0
+ATM-13,Jorge Olmedo,Atletico Madrid,13,GK,10,0,0,6,35,0,0,0,0
+ATM-02,Rodrigo Cisneros,Atletico Madrid,2,DEF,10,1,2,6,0,34,5,3,1
+ATM-06,Sergi Montalban,Atletico Madrid,6,MID,9,2,3,0,0,31,12,3,0
+SEV-04,Iker Zubieta,Sevilla,4,DEF,9,1,0,3,0,29,4,2,0
+SEV-10,Emilio Ardanaz,Sevilla,10,MID,8,3,4,0,0,16,19,1,0
+SEV-09,Tomas Rivas,Sevilla,9,FWD,8,5,1,0,0,1,9,2,0
+VAL-01,Hugo Lorente,Valencia,1,GK,10,0,0,2,41,0,0,1,0
+VAL-11,Samuel Peiro,Valencia,11,FWD,9,6,2,0,0,2,11,0,0
+VIL-08,Adrian Bellido,Villarreal,8,MID,10,3,6,0,0,20,24,2,0
+VIL-03,Marc Soler-Pons,Villarreal,3,DEF,10,0,2,3,0,30,3,1,0
+BET-17,Ruben Gallardo,Real Betis,17,FWD,10,4,5,0,0,4,20,1,0
+BET-10,Antonio Cabrera,Real Betis,10,MID,9,2,5,0,0,13,22,0,0
+RSO-07,Mikel Arrieta,Real Sociedad,7,FWD,3,2,1,0,0,0,4,0,0
+ATH-04,Gorka Etxeberria,Athletic Club,4,DEF,8,1,1,4,0,26,2,2,0
+GIR-09,Oriol Casals,Girona,9,FWD,0,0,0,0,0,0,0,0,0
+CEL-05,Brais Outeiro,Celta Vigo,5,MID,3,1,1,0,0,7,5,1,0
+RAY-22,Pelayo Sanjurjo,Rayo Vallecano,22,DEF,3,0,0,1,0,9,1,1,0
